@@ -1,4 +1,4 @@
-*/Datasets/Profiles/*.csv
-*/Datasets/Reviews
-*/Datasets/*.csv
-*/Models
+**/Datasets/Profiles/*.csv
+**/Datasets/Reviews
+**/Datasets/*.csv
+**/Models
